@@ -1,0 +1,30 @@
+
+parameters for Hamiltonian
+
+J0.5hx-1.6hz0.0Nx10Ny5
+
+using 2dIsing_pinMzLR
+autoHvector--- 0.0002377033233642578 seconds ---
+H2--- 0.17840814590454102 seconds ---
+H3--- 11.874337434768677 seconds ---
+H4--- 506.3824050426483 seconds ---
+H5--- 15761.495510578156 seconds ---
+QRgetR--- 7392.115940332413 seconds ---
+
+m=6from len(R) in get_Q_Hm sub
+
+get_Q_Hm--- 11954.943465471268 seconds ---
+Save Hm--- 1335.6250121593475 seconds ---
+
+m=
+6
+for 30 get_Cm--- 0.002098560333251953 seconds ---
+
+writing result in csv
+
+for 30 Mx&Mz--- 9.5367431640625e-07 seconds ---
+for  npobs--- 0.005146503448486328 seconds ---
+for 30 Czzmid--- 44750.69531202316 seconds ---
+
+result written in csv
+
