@@ -25,7 +25,7 @@ from kryovmultiply import *
 from kryovlinear_algebra import *
 from kryovobservable import *
 #pip install U memory_profiler
-J=0.5;hx=-1.6;hz=0.0;Nx=10;Ny=5
+J=0.5;hx=-1.6;hz=0.0;Nx=9;Ny=5
 #J=1;hx=-1.05;hz=0.5;Nx=10;Ny=1
 print('\nparameters for Hamiltonian\n')
 print('J' + repr(J) + 'hx' + repr(hx)+'hz' + repr(hz)+'Nx' + repr(Nx)+'Ny' + repr(Ny)+'\n')
